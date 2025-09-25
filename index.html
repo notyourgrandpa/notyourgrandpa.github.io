@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NotYourGrandpa – Portfolio</title>
+
+<!-- Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- AOS Animation CSS/JS -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<!-- Custom overrides -->
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-gray-50 text-gray-800 leading-relaxed">
+
+<!-- ===== Header / Hero ===== -->
+<header class="flex flex-col items-center justify-center min-h-screen text-center bg-gradient-to-b from-gray-900 to-gray-700 text-white">
+  <img src="images/my-photo.jpg" alt="Profile photo" class="w-32 h-32 rounded-full mb-6 shadow-lg" data-aos="fade-down">
+  <h1 class="text-4xl md:text-5xl font-bold mb-2" data-aos="fade-up">Hi, I’m <span class="text-yellow-400">NotYourGrandpa</span></h1>
+  <p class="text-lg md:text-xl" data-aos="fade-up" data-aos-delay="150">C# / ASP.NET • Angular • TypeScript Developer</p>
+  <a href="#projects" class="mt-8 inline-block px-6 py-3 bg-yellow-400 text-gray-900 font-semibold rounded-full hover:bg-yellow-300 transition" data-aos="zoom-in" data-aos-delay="300">View My Work</a>
+</header>
+
+<!-- ===== About ===== -->
+<section id="about" class="max-w-4xl mx-auto py-20 px-6">
+  <h2 class="text-3xl font-bold mb-6 text-center" data-aos="fade-right">About Me</h2>
+  <p data-aos="fade-up" class="text-center text-lg">
+    I’m a junior software developer passionate about building scalable web applications and modern user interfaces.
+    Skilled primarily in C#, ASP.NET, Angular, and TypeScript, with a growing interest in cloud and full-stack solutions.
+  </p>
+</section>
+
+<!-- ===== Skills ===== -->
+<section id="skills" class="bg-gray-100 py-20 px-6">
+  <h2 class="text-3xl font-bold mb-12 text-center" data-aos="fade-right">Skills</h2>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+
+    <!-- Example group -->
+    <div data-aos="fade-up" class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
+      <h3 class="font-semibold text-xl mb-4">Programming Languages</h3>
+      <img src="images/skills-languages.png" alt="Languages badges">
+    </div>
+
+    <div data-aos="fade-up" data-aos-delay="100" class="p-6 bg-white rounded-xl shadow hover:shadow-lg transition">
+      <h3 class="font-semibold text-xl mb-4">Web Development</h3>
+      <img src="images/skills-webdev.png" alt="Web dev badges">
+    </div>
+
+    <!-- Add more skill cards similarly -->
+  </div>
+</section>
+
+<!-- ===== Projects ===== -->
+<section id="projects" class="max-w-5xl mx-auto py-20 px-6">
+  <h2 class="text-3xl font-bold mb-12 text-center" data-aos="fade-right">Projects</h2>
+
+  <div class="grid md:grid-cols-2 gap-8">
+    <!-- Project Card -->
+    <div data-aos="fade-up" class="bg-white rounded-xl shadow hover:shadow-lg transition">
+      <img src="images/project1.jpg" alt="Project 1 screenshot" class="rounded-t-xl">
+      <div class="p-6">
+        <h3 class="text-xl font-semibold mb-2">Project Title</h3>
+        <p class="mb-4">Brief description of the project and tech stack used.</p>
+        <a href="#" class="text-yellow-500 hover:underline">View on GitHub →</a>
+      </div>
+    </div>
+
+    <!-- Add more project cards -->
+  </div>
+</section>
+
+<!-- ===== Contact ===== -->
+<section id="contact" class="bg-gray-900 text-white py-20 px-6 text-center">
+  <h2 class="text-3xl font-bold mb-6" data-aos="fade-right">Get in Touch</h2>
+  <p data-aos="fade-up">Email: <a href="mailto:youremail@example.com" class="underline">notmyvegetable@gmail.com</a></p>
+  <p data-aos="fade-up" data-aos-delay="100">GitHub: <a href="https://github.com/notyourgrandpa" class="underline">github.com/notyourgrandpa</a></p>
+</section>
+
+<!-- ===== Footer ===== -->
+<footer class="bg-gray-800 text-gray-400 text-center py-6 text-sm">
+  © <span id="year"></span> NotYourGrandpa. All rights reserved.
+</footer>
+
+<script>
+  AOS.init({ duration: 800, once: true });
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
