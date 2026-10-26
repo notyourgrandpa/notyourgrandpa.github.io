@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Classif-AI",
+    "description": "A tool for classifying between AI-Generated and Human-made TraditionalPainting",
+    "language": "Vue",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Classif-AI",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Classif-AI.png",
+    "previewType": "Rendered local application"
+  },
+  {
+    "name": "Custom-Star-Pusher",
+    "description": "My project on my 2nd year in College",
+    "language": "HTML",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Custom-Star-Pusher",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Custom-Star-Pusher.png",
+    "previewType": "Source preview"
+  },
+  {
+    "name": "Detect-ASL-Letters-to-Text-realtime",
+    "description": "Detect ASL Letters through your camera and convert it into text",
+    "language": "Java",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Detect-ASL-Letters-to-Text-realtime",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Detect-ASL-Letters-to-Text-realtime.png",
+    "previewType": "Source preview"
+  },
+  {
+    "name": "EARIST-MAPS",
+    "description": "Navigate through EARIST Manila Campus",
+    "language": "ASP.NET",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/EARIST-MAPS",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/EARIST-MAPS.png",
+    "previewType": "Repository structure"
+  },
+  {
+    "name": "Earthquake-Hero",
+    "description": "A decision-based Earthquake scenario game",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Earthquake-Hero",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Earthquake-Hero.png",
+    "previewType": "Original screenshot from README"
+  },
+  {
+    "name": "GeneralPurposeApplication",
+    "description": "A directory of applications, including the Kita store management system.",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/GeneralPurposeApplication",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/GeneralPurposeApplication.png",
+    "previewType": "README preview"
+  },
+  {
+    "name": "github-readme-stats",
+    "description": ":zap: Dynamically generated stats for your github readmes",
+    "language": null,
+    "fork": true,
+    "html_url": "https://github.com/notyourgrandpa/github-readme-stats",
+    "default_branch": "master",
+    "snapshot": "assets/snapshots/github-readme-stats.png",
+    "previewType": "Source preview"
+  },
+  {
+    "name": "github-readme-streak-stats",
+    "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+    "language": null,
+    "fork": true,
+    "html_url": "https://github.com/notyourgrandpa/github-readme-streak-stats",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/github-readme-streak-stats.png",
+    "previewType": "Source preview"
+  },
+  {
+    "name": "Kita",
+    "description": "Sari-sari store management system for inventory, sales, and expenses.",
+    "language": "C#",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Kita",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Kita.png",
+    "previewType": "Rendered local application"
+  },
+  {
+    "name": "notyourgrandpa",
+    "description": "My GitHub profile and developer introduction.",
+    "language": null,
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/notyourgrandpa",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/notyourgrandpa.png",
+    "previewType": "README preview"
+  },
+  {
+    "name": "notyourgrandpa.github.io",
+    "description": "My personal portfolio, selected work, and contact information.",
+    "language": "HTML",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/notyourgrandpa.github.io",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/notyourgrandpa.github.io.png",
+    "previewType": "Rendered local portfolio"
+  },
+  {
+    "name": "Online-Pizza-Shop-Ordering-System",
+    "description": "With Paypal payment integration",
+    "language": "CSS",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Online-Pizza-Shop-Ordering-System",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Online-Pizza-Shop-Ordering-System.png",
+    "previewType": "Static PHP template / no backend"
+  },
+  {
+    "name": "Quarantine-Management-System",
+    "description": "A PHP application for managing quarantine records and facilities.",
+    "language": "JavaScript",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/Quarantine-Management-System",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Quarantine-Management-System.png",
+    "previewType": "Static PHP template / no backend"
+  },
+  {
+    "name": "Rewards-Search-Automator",
+    "description": "Chrome / Edge extension for automatic Bing Search",
+    "language": "JavaScript",
+    "fork": true,
+    "html_url": "https://github.com/notyourgrandpa/Rewards-Search-Automator",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/Rewards-Search-Automator.png",
+    "previewType": "HTML / CSS interface"
+  },
+  {
+    "name": "SimpleCustomer.WebAPI",
+    "description": "IA-Training",
+    "language": "C#",
+    "fork": false,
+    "html_url": "https://github.com/notyourgrandpa/SimpleCustomer.WebAPI",
+    "default_branch": "main",
+    "snapshot": "assets/snapshots/SimpleCustomer.WebAPI.png",
+    "previewType": "Static MVC template / no backend"
+  },
+  {
+    "name": "Web-App-Manifest-Generator",
+    "description": "Web app for the generation of images and JSON object needed for the creation of your PWA",
+    "language": null,
+    "fork": true,
+    "html_url": "https://github.com/notyourgrandpa/Web-App-Manifest-Generator",
+    "default_branch": "master",
+    "snapshot": "assets/snapshots/Web-App-Manifest-Generator.png",
+    "previewType": "Rendered local application"
+  }
+]

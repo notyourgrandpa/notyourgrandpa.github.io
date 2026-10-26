@@ -10,10 +10,13 @@ Open `index.html` directly, or serve this directory with any static HTTP server.
 
 - `index.html`: profile, selected projects, skills, and contact links.
 - `style.css`: layout, responsive styles, and colors.
-- `script.js`: current year and accessible copy-email feedback.
+- `gallery.css`: repository gallery, filters, and snapshot dialog styles.
+- `script.js`: current year, email copying, repository search/filtering, and snapshot enlargement.
+- `repositories.json`: metadata for all 16 public repositories, verified October 26, 2026. Forks are identified separately from original projects.
+- `assets/snapshots/`: locally saved project and source snapshots.
 - `favicon.svg`: portfolio monogram.
 
-Project artwork is made with CSS and is illustrative, not a screenshot of the linked applications. Content is based on the existing portfolio, public GitHub profile, and public project READMEs. Kita is labeled as in development.
+The hero artwork is illustrative CSS. Project images are browser captures of actual interfaces, static templates, original README screenshots, or explicitly labeled source/README previews. See `SNAPSHOTS.md` for provenance. Kita remains labeled as in development.
 
 Google Fonts is optional: the site falls back to system fonts when offline. All artwork and core functionality are local, with no framework or animation CDN dependency.
 
